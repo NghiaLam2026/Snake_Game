@@ -1,6 +1,8 @@
 SNAKE GAME 🐍
 
-My own take of snake along side with the help of the Python Udemy course. This was primarily built with the "turtle" module, while also integrating other powerful modules such as "winsound", "pygame", "random" and "time". 
+
+Created with the help of Udemy's Python course and my own knowledge. This was primarily built with the "turtle" module, while also integrating other powerful modules such as "winsound", "pygame", "random" and "time". 
+
 
 EXAMPLE:
 
